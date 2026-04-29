@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm Yasir Ispawoo
 
-<!--
-**ispawoo/ispawoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer | Vibe Coder | 🚀 Tech Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me
+
+* 👨‍💻 I love building web apps & games
+* 📱 تجربه in Android & UI Design
+* ⚡ Always learning new technologies
+* 🎯 Goal: Become top developer
+
+---
+
+## 🛠️ Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge\&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
+![Node](https://img.shields.io/badge/Node-green?style=for-the-badge\&logo=node.js)
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ispawoo\&show_icons=true\&theme=radical)
+
+![Streak](https://streak-stats.demolab.com?user=ispawoo\&theme=radical)
+
+---
+
+## 🚀 Projects
+
+* 🔹 Triocalc– 3-in-1 Calculator
+* 🔹 DeepSleepCalc – Advanced Sleeping Calculator
+* 🔹 E-Commerce – E-Commerce & Web
+
+---
+
+## 🌐 Connect With Me
+
+* 💼 LinkedIn: https://linkedin.com/in/ispawoo
+* 📧 Email: [yasirispawoo@gmail.com](mailto:yasirispawoo@gmail.com)
+
+---
+
+## ⚡ Fun Fact
+
+> I turn coffee ☕ into code 💻

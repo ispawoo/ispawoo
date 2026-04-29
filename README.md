@@ -9,7 +9,7 @@
 <!-- Typing Animation -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Vibe+Coder;Building+Next-Level+Projects;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Expert+Vibe+Coder;Building+Next-Level+Projects;Always+Learning+New+Things;Certified+WordPress+Developer" />
 </p>
 
 ---
@@ -68,7 +68,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ispawoo&repo=ecommerce&theme=tokyonight&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ispawoo&repo=MarkazScraper&theme=tokyonight&hide_border=true"/>
   </a>
 </p>
 

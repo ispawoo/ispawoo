@@ -29,11 +29,11 @@
 ## ⚡ Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,python,wordpress,github,git,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,python,wordpress,git,github,vscode&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shopify-95BF47?style=flat-square&logo=shopify&logoColor=white"/>
 </p>
 
 ---

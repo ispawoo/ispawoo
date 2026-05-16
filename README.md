@@ -37,11 +37,13 @@
 ## 📊 GitHub Intelligence
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ispawoo&show_icons=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ispawoo&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ispawoo&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ispawoo&layout=compact" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ispawoo&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---

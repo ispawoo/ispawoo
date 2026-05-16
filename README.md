@@ -90,7 +90,7 @@
 ## 🐍 Contribution Snake (Live Activity)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ispawoo/ispawoo/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/ispawoo/ispawoo/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---

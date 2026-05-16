@@ -29,11 +29,7 @@
 ## ⚡ Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,python,wordpress,git,github,vscode&theme=dark" />
-</p>
-
-<p align="center">
-  <img height="48" src="https://cdn.simpleicons.org/shopify/95BF47" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,nodejs,react,python,wordpress,shopify,git,github,vscode" />
 </p>
 
 ---

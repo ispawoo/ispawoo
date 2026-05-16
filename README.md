@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Shopify-95BF47?style=flat-square&logo=shopify&logoColor=white"/>
+  <img height="48" src="https://cdn.simpleicons.org/shopify/95BF47" />
 </p>
 
 ---

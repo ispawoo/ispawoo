@@ -55,22 +55,11 @@
 
 ---
 
-## 🧠 Featured Work
+## 🚀 Featured Projects
 
-<p align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ispawoo&repo=triocalc&theme=tokyonight&hide_border=true"/>
-  </a>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ispawoo&repo=deepsleepcalc&theme=tokyonight&hide_border=true"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ispawoo&repo=MarkazScraper&theme=tokyonight&hide_border=true"/>
-  </a>
-</p>
+- 🔹 Triocalc — 3-in-1 Calculator
+- 🔹 DeepSleepCalc — Advanced Sleeping Calculator
+- 🔹 E-Commerce — Full E-Commerce Web App
 
 ---
 
